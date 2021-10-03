@@ -4,5 +4,5 @@
     "PREFIX": "yomi.", //DEFAULT:"yomi."
     "SPEAKER": "hikari", //show/haruka/hikari/takeru/santa/bear DEFAULT:"hikari"
     "PITCH": 100, //50~200 DEFAULT:100
-    "SPEED": 110 //50~400 DEFAULT:110
+    "SPEED": 80 //50~400 DEFAULT:110
 }

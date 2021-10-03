@@ -1,0 +1,13 @@
+beautifulsoup4==4.6.0
+certifi==2018.4.16
+chardet==3.0.4
+idna==2.6
+Pillow==5.0.0
+pyocr==0.5.1
+requests==2.18.4
+six==1.11.0
+slackbot==0.5.1
+slacker==0.9.60
+urllib3==1.22
+websocket-client==0.46.0
+wincertstore==0.2

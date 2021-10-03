@@ -1,6 +1,6 @@
 {
-    "DISCORD_TOKEN": "YOUR_DISCORD_TOKEN",
-    "VOICETEXT_API_KEY": "YOUR_VOICETEXT_API_KEY",
+    "DISCORD_TOKEN": "ODcyMDAxMzI5OTQ4NjgwMjAy.YQjghg.pW4qOaCFtuoC_xXugi3R_bzxwAs",
+    "VOICETEXT_API_KEY": "s5ispjhd9ez9lzft",
     "PREFIX": "yomi.", //DEFAULT:"yomi."
     "SPEAKER": "hikari", //show/haruka/hikari/takeru/santa/bear DEFAULT:"hikari"
     "PITCH": 100, //50~200 DEFAULT:100
